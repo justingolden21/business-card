@@ -17,3 +17,7 @@ Production: `npm run build`
 - Live demo: https://justingolden.me/business-card
 
 - This repo: https://github.com/justingolden21/business-card
+
+### People
+
+- WyldHalgling (Phil)
