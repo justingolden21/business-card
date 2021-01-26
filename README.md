@@ -20,4 +20,5 @@ Production: `npm run build`
 
 ### People
 
-- WyldHalgling (Phil)
+- WyldHalgling (Phil) - 4h/week
+- p_apres/p-apres(github) (Pedro) - 4h/week
